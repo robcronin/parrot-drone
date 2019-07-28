@@ -32,5 +32,5 @@ client.takeoff();
 
 setTimeout(() => { client.up(0.5)}, 0)
 setTimeout(() => {client.stop(); client.front(0.3)}, 5000)
-setTimeout(() => {client.stop()}, 6500)
-setTimeout(() => {client.land()}, 7500)
+setTimeout(() => {client.stop()}, 7000)
+setTimeout(() => {client.land()}, 8000)
